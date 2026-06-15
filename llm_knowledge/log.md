@@ -21,3 +21,5 @@
 ## [2026-06-15] ingest | 스펙 주도 개발 SDD (GeekNews #23776, Fowler) — 출처·개념·엔티티(Kiro·Spec-kit·Tessl) 5페이지, index 갱신, GitHub sync
 
 ## [2026-06-15] ingest | iFKakao Agentic Coding (카카오페이 Spec-kit) — 출처·개념(에이전틱·바이브)·엔티티(카카오페이) 4페이지, Spec-kit·SDD 갱신, GitHub sync
+
+## [2026-06-15] ingest | SDD Context Engineering (tsyang #224) — 출처·개념(컨텍스트·Context Rot)·엔티티(tsyang) 4페이지, SDD·Spec-kit·바이브 갱신, GitHub sync

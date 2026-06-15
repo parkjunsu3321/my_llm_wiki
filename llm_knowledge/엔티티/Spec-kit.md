@@ -3,6 +3,7 @@ tags: [entity, tool, sdd, github]
 sources:
   - wiki/출처/스펙 주도 개발 SDD GeekNews.md
   - wiki/출처/iFKakao Agentic Coding 카카오페이 Spec-kit.md
+  - wiki/출처/스펙 주도 개발 SDD tsyang Context Engineering.md
 url: https://github.com/github/spec-kit
 ---
 
@@ -27,10 +28,10 @@ specify init --here           # 기존 프로젝트 (브라운필드)
 | 단계 | 슬래시 커맨드 | 역할 |
 |------|---------------|------|
 | **Constitution** | (초기) | **불변** 고수준 원칙 → `constitution.md` |
-| Specify | `/speckit.specify` | 기능 명세 (요구사항 많이, 정리는 도구) |
-| Clarify | (선택) | 모호성 제거, 기획 누락 질문 (최대 5) |
-| Plan | `/speckit.plan` | constitution+spec → 개발 계획 |
-| Tasks | `/speckit.tasks` | → `tasks.md` (완료 기준) |
+| Specify | `/speckit.specify` | 기능 명세 — **what·why** (how는 Plan) ([[tsyang]]) |
+| Clarify | (선택) | `[NEEDS CLARIFICATION]` 태그로 추측 방지 ([[tsyang]]) |
+| Plan | `/speckit.plan` | constitution+spec → 계획; **게이트** (헌법 위반·과복잡 차단) |
+| Tasks | `/speckit.tasks` | → `tasks.md`; `[P]` 병렬 작업 표시 ([[tsyang]]) |
 | Analyze | `/speckit.analyze` | spec/plan/task **모순 분석** (implement 전) |
 | Implement | `/speckit.implement` | tasks 중심 코드 생성·MCP 호출 |
 
@@ -72,8 +73,13 @@ Specify·Implement 단계에서 **Figma MCP**, 위키 MCP 등 사전 연결 → 
 - Implement는 **tasks 우선** — constitution 위반 시 tasks·spec 재점검
 - 장점: 기획 Clarify, 보안·테스트 constitution 추적; 단점: 단계·토큰·소규모 수정 애매
 
+**tsyang (Context Engineering)** ([[출처/스펙 주도 개발 SDD tsyang Context Engineering]])
+
+- 6단계 + **Plan 게이트**, Clarify **`[NEEDS CLARIFICATION]`**, Task **`[P]`**
+- [[컨텍스트 엔지니어링]]·[[Context Rot]] 관점 정리
+
 ## 관련
 
-- [[스펙 주도 개발]] · [[에이전틱 코딩]] · [[카카오페이 AI 플랫폼]]
-- [[출처/스펙 주도 개발 SDD GeekNews]] · [[출처/iFKakao Agentic Coding 카카오페이 Spec-kit]]
+- [[스펙 주도 개발]] · [[컨텍스트 엔지니어링]] · [[에이전틱 코딩]] · [[카카오페이 AI 플랫폼]] · [[tsyang]]
+- [[출처/스펙 주도 개발 SDD GeekNews]] · [[출처/iFKakao Agentic Coding 카카오페이 Spec-kit]] · [[출처/스펙 주도 개발 SDD tsyang Context Engineering]]
 - [[Kiro]] · [[Tessl]]
