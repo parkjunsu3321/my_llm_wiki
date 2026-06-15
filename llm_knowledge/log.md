@@ -17,3 +17,5 @@
 ## [2026-06-15] ingest | Fable 5 루프 설계 (GeekNews #30390) — 출처·개념 1·엔티티 2 페이지 생성, Anthropic·프롬프트 가이드 교차 링크
 
 ## [2026-06-15] ingest | 루프 엔지니어링 개론 (GeekNews #30336, Addyo) — 출처 1·개념 루프 엔지니어링 통합 갱신, Fable 출처와 상호 링크
+
+## [2026-06-15] ingest | 스펙 주도 개발 SDD (GeekNews #23776, Fowler) — 출처·개념·엔티티(Kiro·Spec-kit·Tessl) 5페이지, index 갱신, GitHub sync
