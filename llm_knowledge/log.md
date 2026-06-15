@@ -19,3 +19,5 @@
 ## [2026-06-15] ingest | 루프 엔지니어링 개론 (GeekNews #30336, Addyo) — 출처 1·개념 루프 엔지니어링 통합 갱신, Fable 출처와 상호 링크
 
 ## [2026-06-15] ingest | 스펙 주도 개발 SDD (GeekNews #23776, Fowler) — 출처·개념·엔티티(Kiro·Spec-kit·Tessl) 5페이지, index 갱신, GitHub sync
+
+## [2026-06-15] ingest | iFKakao Agentic Coding (카카오페이 Spec-kit) — 출처·개념(에이전틱·바이브)·엔티티(카카오페이) 4페이지, Spec-kit·SDD 갱신, GitHub sync
