@@ -10,6 +10,8 @@
 - [[개념/루프 엔지니어링]] — 5+1 구성요소·/goal; Fable 5 벤치 (출처 3·4)
 - [[개념/Claude 프롬프트 엔지니어링]] — Anthropic 공식 가이드; effort·adaptive thinking·에이전트 설계 (출처 2)
 - [[개념/ADHD 스킬]] — 코딩 에이전트용 병렬 발산-수렴 아이디에이션 (출처 1)
+- [[개념/Spectrum-to-Signal 원칙]] — SLM SFT 스펙트럼→RL 신호; MGPO (출처 8)
+- [[개념/추론-지식 분리]] — 검증 가능 추론 vs 개방형 지식; SLM·대형 역할 (출처 8)
 
 ## 출처 요약
 
@@ -20,6 +22,7 @@
 - [[출처/루프 엔지니어링 Addyo GeekNews]] — 5+1·Automations·/goal; build the loop stay the engineer (2026-06-10)
 - [[출처/Claude 프롬프트 엔지니어링 Anthropic 가이드 PyTorchKR]] — Opus 4.8·마이그레이션·에이전트 프롬프트 스니펫 (2026-05-30)
 - [[출처/ADHD 코딩 에이전트 스킬 PyTorchKR]] — Diverge/Focus, 벤치마크, 설치법 (2026-06-02)
+- [[출처/VibeThinker-3B 소형 추론 모델 PyTorchKR]] — 3B 프론티어 추론·SSP·CLR·벤치마크 (2026-06-17)
 
 ## 개념
 
@@ -46,6 +49,12 @@
 - [[개념/Chain-of-Thought]] — 순차 추론; 고착 취약
 - [[개념/Tree-of-Thought]] — 트리 탐색; 공유 맥락 한계
 
+### SLM·추론 모델
+
+- [[개념/Spectrum-to-Signal 원칙]] — VibeThinker SFT→RL; MGPO·Long2Short
+- [[개념/추론-지식 분리]] — parameter-dense vs expansive
+- [[개념/CLR]] — claim-level test-time scaling
+
 ## 엔티티
 
 ### SDD 도구
@@ -62,6 +71,8 @@
 - [[엔티티/Claude Fable 5]] — Mythos-class; 루프 설계·장시간 작업
 - [[엔티티/Claude Managed Agents]] — CMA harness·Outcomes·sandbox
 - [[엔티티/Claude Opus 4.8]] — 최상위 모델; literal·effort 중심
-- [[엔티티/PyTorchKR]] — 한국 PyTorch 커뮤니티 (출처 2건)
+- [[엔티티/PyTorchKR]] — 한국 PyTorch 커뮤니티 (출처 3건)
+- [[엔티티/VibeThinker-3B]] — Weibo AI 3B 추론 SLM; AIME·LiveCodeBench
+- [[엔티티/Weibo AI]] — VibeThinker 시리즈 연구팀
 - [[엔티티/Udit Akhouri]] — ADHD 저자
 - [[엔티티/adhd-agent]] — ADHD GitHub/npm (MIT)

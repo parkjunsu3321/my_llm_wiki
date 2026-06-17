@@ -3,6 +3,7 @@ tags: [entity, community]
 sources:
   - raw/sources/2026-06-02-discuss-pytorchkr-adhd-10481.md
   - raw/sources/2026-05-30-discuss-pytorchkr-claude-prompt-engineering-10447.md
+  - wiki/출처/VibeThinker-3B 소형 추론 모델 PyTorchKR.md
 ---
 
 # PyTorchKR
@@ -13,6 +14,7 @@ sources:
 
 - [[출처/ADHD 코딩 에이전트 스킬 PyTorchKR]] (2026-06-02)
 - [[출처/Claude 프롬프트 엔지니어링 Anthropic 가이드 PyTorchKR]] (2026-05-30)
+- [[출처/VibeThinker-3B 소형 추론 모델 PyTorchKR]] (2026-06-17)
 
 ## 참고
 
