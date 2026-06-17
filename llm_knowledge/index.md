@@ -14,6 +14,7 @@
 - [[개념/추론-지식 분리]] — 검증 가능 추론 vs 개방형 지식; SLM·대형 역할 (출처 8)
 - [[개념/LLM Wiki]] — Karpathy raw/wiki 레이어; ingest·query·lint (출처 9)
 - [[개념/자기 갱신 위키]] — rewrite·reconcile·synthesize; append 한계 (출처 9)
+- [[개념/LLMOps]] — 게이트웨이·관측·평가·최적화·실험; 프로덕션 플라이휠 (출처 10)
 
 ## 출처 요약
 
@@ -26,6 +27,7 @@
 - [[출처/ADHD 코딩 에이전트 스킬 PyTorchKR]] — Diverge/Focus, 벤치마크, 설치법 (2026-06-02)
 - [[출처/VibeThinker-3B 소형 추론 모델 PyTorchKR]] — 3B 프론티어 추론·SSP·CLR·벤치마크 (2026-06-17)
 - [[출처/obsidian-second-brain Obsidian 세컨드 브레인 PyTorchKR]] — 자기 갱신 Vault·43+ 명령·예약 에이전트 (2026-06-16)
+- [[출처/TensorZero LLMOps PyTorchKR]] — 통합 게이트웨이·관측·평가·최적화·실험; Rust·OpenAI SDK (2026-06-17)
 
 ## 개념
 
@@ -63,6 +65,10 @@
 - [[개념/LLM Wiki]] — Karpathy 3레이어; 이 Vault 구조
 - [[개념/자기 갱신 위키]] — self-rewriting vs append-only
 
+### LLM 운영
+
+- [[개념/LLMOps]] — 게이트웨이·관측·평가·최적화·실험; 데이터 플라이휠
+
 ## 엔티티
 
 ### SDD 도구
@@ -79,7 +85,8 @@
 - [[엔티티/Claude Fable 5]] — Mythos-class; 루프 설계·장시간 작업
 - [[엔티티/Claude Managed Agents]] — CMA harness·Outcomes·sandbox
 - [[엔티티/Claude Opus 4.8]] — 최상위 모델; literal·effort 중심
-- [[엔티티/PyTorchKR]] — 한국 PyTorch 커뮤니티 (출처 4건)
+- [[엔티티/PyTorchKR]] — 한국 PyTorch 커뮤니티 (출처 5건)
+- [[엔티티/TensorZero]] — 오픈소스 LLMOps; 게이트웨이·플라이휠
 - [[엔티티/VibeThinker-3B]] — Weibo AI 3B 추론 SLM; AIME·LiveCodeBench
 - [[엔티티/Weibo AI]] — VibeThinker 시리즈 연구팀
 - [[엔티티/obsidian-second-brain]] — Obsidian 자기 갱신 세컨드 브레인 스킬

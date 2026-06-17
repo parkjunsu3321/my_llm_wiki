@@ -5,6 +5,7 @@ sources:
   - raw/sources/2026-05-30-discuss-pytorchkr-claude-prompt-engineering-10447.md
   - raw/sources/2026-06-17-discuss-pytorchkr-vibethinker-3b-10748.md
   - raw/sources/2026-06-16-discuss-pytorchkr-obsidian-second-brain-10730.md
+  - raw/sources/2026-06-17-discuss-pytorchkr-tensorzero-llmops-10694.md
 ---
 
 # PyTorchKR
@@ -17,6 +18,7 @@ sources:
 - [[출처/Claude 프롬프트 엔지니어링 Anthropic 가이드 PyTorchKR]] (2026-05-30)
 - [[출처/VibeThinker-3B 소형 추론 모델 PyTorchKR]] (2026-06-17)
 - [[출처/obsidian-second-brain Obsidian 세컨드 브레인 PyTorchKR]] (2026-06-16)
+- [[출처/TensorZero LLMOps PyTorchKR]] (2026-06-17)
 
 ## 참고
 
