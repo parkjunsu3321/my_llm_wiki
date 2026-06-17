@@ -24,7 +24,7 @@ url: https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f
 
 | 작업 | 스킬 |
 |------|------|
-| 원본 → 위키 | `llm-wiki-ingest` |
+| 원본 → 위키 → **GitHub sync** | `llm-wiki-ingest` (commit + push 포함) |
 | 위키 질문 | `llm-wiki-query` |
 | 건강 점검 | `llm-wiki-lint` |
 

@@ -1,0 +1,22 @@
+---
+description: LLM Wiki ingest/query/lint 요청 시 프로젝트 스킬 사용
+alwaysApply: true
+---
+
+# LLM Wiki 스킬 라우팅
+
+저장소: `my_llm_wiki/` · 위키: `llm_knowledge/`
+
+| 사용자 의도 | 스킬 |
+|------------|------|
+| ingest, 흡수, URL/문서 위키 추가 | `llm-wiki-ingest` |
+| 위키 질문, query | `llm-wiki-query` (미구현 시 wiki 검색·답변) |
+| lint, 건강 검사, orphan·모순 | `llm-wiki-lint` (미구현 시 index·링크 점검) |
+
+## Ingest 후 GitHub sync
+
+`llm-wiki-ingest` 완료 시 **반드시** git commit + `git push origin main`까지 수행한다. 사용자가 별도로 push를 요청하지 않아도 ingest의 마지막 단계다.
+
+- repo root: `C:\Users\JUNSOO\Desktop\my_llm_wiki`
+- remote: `https://github.com/parkjunsu3321/my_llm_wiki.git`
+- `llm_knowledge/.obsidian/` 커밋 제외

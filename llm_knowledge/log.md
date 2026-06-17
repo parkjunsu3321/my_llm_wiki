@@ -34,4 +34,6 @@
 
 ## [2026-06-17] ingest | token-router (GeekNews #30547) — 출처·개념(하이브리드 컨텍스트 라우팅)·엔티티(token-router), 컨텍스트 엔지니어링 갱신, GitHub sync
 
-## [2026-06-17] ingest | OpenKB (PyTorchKR #10058) — 출처·엔티티(OpenKB)·개념(LLM Wiki RAG vs compile) 3페이지, PyTorchKR·obsidian-second-brain 교차 링크, index 갱신
+## [2026-06-17] ingest | OpenKB (PyTorchKR #10058) — 출처·엔티티(OpenKB)·개념(LLM Wiki RAG vs compile) 3페이지, PyTorchKR·obsidian-second-brain 교차 링크, index 갱신, GitHub sync
+
+## [2026-06-17] setup | llm-wiki-ingest 스킬에 ingest 후 git commit·push 필수 단계 추가, `.cursor/rules/llm-wiki-skills.mdc`·`.gitignore` 생성

@@ -1,0 +1,8 @@
+# Obsidian local config
+llm_knowledge/.obsidian/
+
+# secrets
+.env
+.env.*
+*.pem
+credentials.json
