@@ -15,6 +15,7 @@
 - [[개념/LLM Wiki]] — Karpathy raw/wiki 레이어; ingest·query·lint (출처 9)
 - [[개념/자기 갱신 위키]] — rewrite·reconcile·synthesize; append 한계 (출처 9)
 - [[개념/LLMOps]] — 게이트웨이·관측·평가·최적화·실험; 프로덕션 플라이휠 (출처 10)
+- [[개념/하이브리드 컨텍스트 라우팅]] — 로컬 triage·원문 slice·클라우드 추론; token-router (출처 11)
 
 ## 출처 요약
 
@@ -28,6 +29,7 @@
 - [[출처/VibeThinker-3B 소형 추론 모델 PyTorchKR]] — 3B 프론티어 추론·SSP·CLR·벤치마크 (2026-06-17)
 - [[출처/obsidian-second-brain Obsidian 세컨드 브레인 PyTorchKR]] — 자기 갱신 Vault·43+ 명령·예약 에이전트 (2026-06-16)
 - [[출처/TensorZero LLMOps PyTorchKR]] — 통합 게이트웨이·관측·평가·최적화·실험; Rust·OpenAI SDK (2026-06-17)
+- [[출처/token-router 하이브리드 컨텍스트 라우터 GeekNews]] — Gemma 2B triage·raw slice·~99% 토큰 절감 (2026-06-17)
 
 ## 개념
 
@@ -41,7 +43,7 @@
 ### 에이전트·루프
 
 - [[개념/스펙 주도 개발]] — spec-first/anchored/as-source, constitution·steering, spec=Context
-- [[개념/컨텍스트 엔지니어링]] — 맥락 설계; 프롬프트 엔지니어링과 구분
+- [[개념/컨텍스트 엔지니어링]] — 맥락 설계; 프롬프트 엔지니어링과 구분; slice 라우팅
 - [[개념/Context Rot]] — 바이브 코딩 맥락 부식
 - [[개념/에이전틱 코딩]] — 프롬프트 기반 AI 코딩; 환각·일관성 한계
 - [[개념/바이브 코딩]] — 구조 없는 대화형 코딩; SDD 대비
@@ -69,6 +71,10 @@
 
 - [[개념/LLMOps]] — 게이트웨이·관측·평가·최적화·실험; 데이터 플라이휠
 
+### 컨텍스트·토큰
+
+- [[개념/하이브리드 컨텍스트 라우팅]] — local triage + raw slice + cloud reasoning
+
 ## 엔티티
 
 ### SDD 도구
@@ -93,3 +99,4 @@
 - [[엔티티/Eugeniu Ghelbur]] — obsidian-second-brain·The AI Operator
 - [[엔티티/Udit Akhouri]] — ADHD 저자
 - [[엔티티/adhd-agent]] — ADHD GitHub/npm (MIT)
+- [[엔티티/token-router]] — Ollama triage·raw slice; Codex·Claude Code 토큰 절감 (MIT)

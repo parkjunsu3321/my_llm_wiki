@@ -31,3 +31,5 @@
 ## [2026-06-17] ingest-fix | raw/sources HTML→텍스트 — 카카오페이·tsyang 2건 HTML 덤프 제거, article 추출·ingest 스킬 HTML 금지 규칙 추가
 
 ## [2026-06-17] ingest | TensorZero LLMOps (PyTorchKR #10694) — 출처·개념(LLMOps)·엔티티(TensorZero) 3페이지, PyTorchKR 갱신, GitHub sync
+
+## [2026-06-17] ingest | token-router (GeekNews #30547) — 출처·개념(하이브리드 컨텍스트 라우팅)·엔티티(token-router), 컨텍스트 엔지니어링 갱신, GitHub sync
