@@ -12,7 +12,7 @@
 - [[개념/ADHD 스킬]] — 코딩 에이전트용 병렬 발산-수렴 아이디에이션 (출처 1)
 - [[개념/Spectrum-to-Signal 원칙]] — SLM SFT 스펙트럼→RL 신호; MGPO (출처 8)
 - [[개념/추론-지식 분리]] — 검증 가능 추론 vs 개방형 지식; SLM·대형 역할 (출처 8)
-- [[개념/LLM Wiki]] — Karpathy raw/wiki 레이어; ingest·query·lint (출처 9)
+- [[개념/LLM Wiki]] — Karpathy raw/wiki 레이어; RAG vs 위키 컴파일; OpenKB·seCall (출처 9·12)
 - [[개념/자기 갱신 위키]] — rewrite·reconcile·synthesize; append 한계 (출처 9)
 - [[개념/LLMOps]] — 게이트웨이·관측·평가·최적화·실험; 프로덕션 플라이휠 (출처 10)
 - [[개념/하이브리드 컨텍스트 라우팅]] — 로컬 triage·원문 slice·클라우드 추론; token-router (출처 11)
@@ -30,6 +30,7 @@
 - [[출처/obsidian-second-brain Obsidian 세컨드 브레인 PyTorchKR]] — 자기 갱신 Vault·43+ 명령·예약 에이전트 (2026-06-16)
 - [[출처/TensorZero LLMOps PyTorchKR]] — 통합 게이트웨이·관측·평가·최적화·실험; Rust·OpenAI SDK (2026-06-17)
 - [[출처/token-router 하이브리드 컨텍스트 라우터 GeekNews]] — Gemma 2B triage·raw slice·~99% 토큰 절감 (2026-06-17)
+- [[출처/OpenKB LLM 위키 지식베이스 PyTorchKR]] — Karpathy 위키 컴파일 CLI; markitdown·PageIndex·lint·watch (2026-05-06, ingest 2026-06-17)
 
 ## 개념
 
@@ -64,7 +65,7 @@
 
 ### 지식·Obsidian
 
-- [[개념/LLM Wiki]] — Karpathy 3레이어; 이 Vault 구조
+- [[개념/LLM Wiki]] — Karpathy 3레이어; RAG vs compile; OpenKB·seCall
 - [[개념/자기 갱신 위키]] — self-rewriting vs append-only
 
 ### LLM 운영
@@ -91,7 +92,7 @@
 - [[엔티티/Claude Fable 5]] — Mythos-class; 루프 설계·장시간 작업
 - [[엔티티/Claude Managed Agents]] — CMA harness·Outcomes·sandbox
 - [[엔티티/Claude Opus 4.8]] — 최상위 모델; literal·effort 중심
-- [[엔티티/PyTorchKR]] — 한국 PyTorch 커뮤니티 (출처 5건)
+- [[엔티티/PyTorchKR]] — 한국 PyTorch 커뮤니티 (출처 6건)
 - [[엔티티/TensorZero]] — 오픈소스 LLMOps; 게이트웨이·플라이휠
 - [[엔티티/VibeThinker-3B]] — Weibo AI 3B 추론 SLM; AIME·LiveCodeBench
 - [[엔티티/Weibo AI]] — VibeThinker 시리즈 연구팀
@@ -100,3 +101,7 @@
 - [[엔티티/Udit Akhouri]] — ADHD 저자
 - [[엔티티/adhd-agent]] — ADHD GitHub/npm (MIT)
 - [[엔티티/token-router]] — Ollama triage·raw slice; Codex·Claude Code 토큰 절감 (MIT)
+
+### 지식·위키
+
+- [[엔티티/OpenKB]] — VectifyAI; 문서→위키 CLI; markitdown·PageIndex·LiteLLM
