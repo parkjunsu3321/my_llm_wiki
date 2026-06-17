@@ -3,6 +3,7 @@ tags: [concept, knowledge-management, obsidian]
 sources:
   - raw/sources/2026-06-16-discuss-pytorchkr-obsidian-second-brain-10730.md
   - raw/sources/2026-05-06-discuss-pytorchkr-openkb-llm-10058.md
+  - raw/sources/2026-06-17-github-vectifyai-openkb-readme.md
 url: https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f
 ---
 
@@ -58,12 +59,12 @@ Karpathy 논지: LLM이 문서를 **그때그때 검색(RAG)** 하는 것보다 
 | 구현 | 특징 |
 |------|------|
 | **이 Vault** | Cursor `llm-wiki-ingest/query/lint` 스킬 |
-| **[[OpenKB]]** | CLI; markitdown·PageIndex·watch; LiteLLM |
+| **[[OpenKB]]** | 공식 CLI; foundation+generator; PageIndex·Skill Factory·entities/ |
 | **[[obsidian-second-brain]]** | Karpathy + **self-rewriting**·예약 에이전트 |
 | **seCall** | Rust; 대화→로컬 위키; CJK 강점 (커뮤니티) |
 
 ## 관련
 
-- [[OpenKB]] · [[obsidian-second-brain]] · [[Eugeniu Ghelbur]]
-- [[출처/obsidian-second-brain Obsidian 세컨드 브레인 PyTorchKR]] · [[출처/OpenKB LLM 위키 지식베이스 PyTorchKR]]
+- [[OpenKB]] · [[VectifyAI]] · [[obsidian-second-brain]] · [[Eugeniu Ghelbur]]
+- [[출처/obsidian-second-brain Obsidian 세컨드 브레인 PyTorchKR]] · [[출처/OpenKB LLM 위키 지식베이스 PyTorchKR]] · [[출처/OpenKB GitHub README VectifyAI]]
 - [[Context Rot]] — 세션 맥락 소멸; 위키·세컨드 브레인이 대응

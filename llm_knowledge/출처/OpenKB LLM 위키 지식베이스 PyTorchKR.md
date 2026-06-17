@@ -89,7 +89,8 @@ Graphify · Cognee · RAG Web UI · WeKnora · ApeRAG · Advanced RAG Cookbooks 
 
 ## 관련 위키
 
-- [[OpenKB]] · [[LLM Wiki]] · [[자기 갱신 위키]] · [[obsidian-second-brain]] · [[PyTorchKR]]
+- [[OpenKB]] · [[VectifyAI]] · [[LLM Wiki]] · [[자기 갱신 위키]] · [[obsidian-second-brain]] · [[PyTorchKR]]
+- [[출처/OpenKB GitHub README VectifyAI]] — 공식 README (entities·Skill Factory)
 
 ## 원본·리소스
 

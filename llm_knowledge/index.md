@@ -31,6 +31,7 @@
 - [[출처/TensorZero LLMOps PyTorchKR]] — 통합 게이트웨이·관측·평가·최적화·실험; Rust·OpenAI SDK (2026-06-17)
 - [[출처/token-router 하이브리드 컨텍스트 라우터 GeekNews]] — Gemma 2B triage·raw slice·~99% 토큰 절감 (2026-06-17)
 - [[출처/OpenKB LLM 위키 지식베이스 PyTorchKR]] — Karpathy 위키 컴파일 CLI; markitdown·PageIndex·lint·watch (2026-05-06, ingest 2026-06-17)
+- [[출처/OpenKB GitHub README VectifyAI]] — 공식 README; entities·Skill Factory·recompile·agent 연동 (2026-06-17)
 
 ## 개념
 
@@ -104,4 +105,5 @@
 
 ### 지식·위키
 
-- [[엔티티/OpenKB]] — VectifyAI; 문서→위키 CLI; markitdown·PageIndex·LiteLLM
+- [[엔티티/OpenKB]] — VectifyAI; foundation+generator CLI; PageIndex·Skill Factory
+- [[엔티티/VectifyAI]] — OpenKB·PageIndex 제작 조직
