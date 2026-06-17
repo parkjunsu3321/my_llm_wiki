@@ -1,7 +1,7 @@
 ---
 tags: [entity, person, agent-skill]
 sources:
-  - wiki/출처/obsidian-second-brain Obsidian 세컌드 브레인 PyTorchKR.md
+  - raw/sources/2026-06-16-discuss-pytorchkr-obsidian-second-brain-10730.md
 ---
 
 # Eugeniu Ghelbur

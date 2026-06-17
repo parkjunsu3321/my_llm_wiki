@@ -27,3 +27,5 @@
 ## [2026-06-17] ingest | VibeThinker-3B (PyTorchKR #10748) — 출처·개념(SSP·추론-지식 분리·CLR)·엔티티(VibeThinker-3B·Weibo AI) 6페이지, PyTorchKR 갱신
 
 ## [2026-06-17] ingest | obsidian-second-brain (PyTorchKR #10730) — 출처·개념(LLM Wiki·자기 갱신 위키)·엔티티(obsidian-second-brain·Eugeniu Ghelbur) 5페이지, PyTorchKR 갱신, GitHub sync
+
+## [2026-06-17] ingest-fix | raw/sources·assets backfill — 누락 5건(SDD×3·VibeThinker·obsidian-second-brain) 스냅샷, PyTorchKR 이미지 6개, wiki sources/assets 연결, ingest 스킬 3레이어 규칙 강화

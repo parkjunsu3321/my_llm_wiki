@@ -1,6 +1,8 @@
 ---
 tags: [ingest, agent, sdd, context]
 date: 2026-06-15
+sources:
+  - raw/sources/2026-06-15-tsyang-sdd-context-engineering-224.md
 url: https://tsyang.tistory.com/224
 author: tsyang
 blog: 게임 클라 개발
@@ -82,6 +84,7 @@ blog: 게임 클라 개발
 
 ## 원본·참고
 
+- `raw/sources/2026-06-15-tsyang-sdd-context-engineering-224.md`
 - 글: https://tsyang.tistory.com/224
 - GitHub spec-kit (글 내 링크)
 - SDD 소개 영상 (글 내 링크)

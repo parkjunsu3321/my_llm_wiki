@@ -1,7 +1,7 @@
 ---
 tags: [entity, org, research]
 sources:
-  - wiki/출처/VibeThinker-3B 소형 추론 모델 PyTorchKR.md
+  - raw/sources/2026-06-17-discuss-pytorchkr-vibethinker-3b-10748.md
 ---
 
 # Weibo AI

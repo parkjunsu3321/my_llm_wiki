@@ -1,7 +1,7 @@
 ---
 tags: [concept, knowledge-management, obsidian]
 sources:
-  - wiki/출처/obsidian-second-brain Obsidian 세컨드 브레인 PyTorchKR.md
+  - raw/sources/2026-06-16-discuss-pytorchkr-obsidian-second-brain-10730.md
 url: https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f
 ---
 

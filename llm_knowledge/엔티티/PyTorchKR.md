@@ -3,8 +3,8 @@ tags: [entity, community]
 sources:
   - raw/sources/2026-06-02-discuss-pytorchkr-adhd-10481.md
   - raw/sources/2026-05-30-discuss-pytorchkr-claude-prompt-engineering-10447.md
-  - wiki/출처/VibeThinker-3B 소형 추론 모델 PyTorchKR.md
-  - wiki/출처/obsidian-second-brain Obsidian 세컨드 브레인 PyTorchKR.md
+  - raw/sources/2026-06-17-discuss-pytorchkr-vibethinker-3b-10748.md
+  - raw/sources/2026-06-16-discuss-pytorchkr-obsidian-second-brain-10730.md
 ---
 
 # PyTorchKR

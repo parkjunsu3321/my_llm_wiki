@@ -1,8 +1,8 @@
 ---
 tags: [concept, agent, context]
 sources:
-  - wiki/출처/스펙 주도 개발 SDD tsyang Context Engineering.md
-  - wiki/출처/iFKakao Agentic Coding 카카오페이 Spec-kit.md
+  - raw/sources/2026-06-15-tsyang-sdd-context-engineering-224.md
+  - raw/sources/2026-06-15-kakaopay-ifkakao-agentic-coding-spec-kit.md
 ---
 
 # Context Rot

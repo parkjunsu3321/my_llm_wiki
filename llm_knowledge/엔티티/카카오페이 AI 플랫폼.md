@@ -1,7 +1,7 @@
 ---
 tags: [entity, org, kakaopay, ai]
 sources:
-  - wiki/출처/iFKakao Agentic Coding 카카오페이 Spec-kit.md
+  - raw/sources/2026-06-15-kakaopay-ifkakao-agentic-coding-spec-kit.md
 url: https://tech.kakaopay.com/
 ---
 

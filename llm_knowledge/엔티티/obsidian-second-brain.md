@@ -1,7 +1,7 @@
 ---
 tags: [entity, tool, obsidian, agent-skill, second-brain]
 sources:
-  - wiki/출처/obsidian-second-brain Obsidian 세컨드 브레인 PyTorchKR.md
+  - raw/sources/2026-06-16-discuss-pytorchkr-obsidian-second-brain-10730.md
 url: https://github.com/eugeniughelbur/obsidian-second-brain
 ---
 

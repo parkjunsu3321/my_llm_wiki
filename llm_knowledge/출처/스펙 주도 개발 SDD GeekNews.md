@@ -1,6 +1,8 @@
 ---
 tags: [ingest, agent, geeknews, sdd]
 date: 2026-06-15
+sources:
+  - raw/sources/2025-10-20-geeknews-sdd-tools-23776.md
 url: https://news.hada.io/topic?id=23776
 original_url: https://martinfowler.com/articles/exploring-gen-ai/sdd-tools.html
 author: Birgitta Böckeler
@@ -74,5 +76,6 @@ author: Birgitta Böckeler
 
 ## 원본
 
+- `raw/sources/2025-10-20-geeknews-sdd-tools-23776.md`
 - GeekNews: https://news.hada.io/topic?id=23776
 - Fowler: https://martinfowler.com/articles/exploring-gen-ai/sdd-tools.html

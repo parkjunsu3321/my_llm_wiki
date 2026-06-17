@@ -1,7 +1,7 @@
 ---
 tags: [entity, tool, sdd, aws]
 sources:
-  - wiki/출처/스펙 주도 개발 SDD GeekNews.md
+  - raw/sources/2025-10-20-geeknews-sdd-tools-23776.md
 ---
 
 # Kiro

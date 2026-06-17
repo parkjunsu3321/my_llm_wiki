@@ -1,6 +1,11 @@
 ---
 tags: [ingest, obsidian, second-brain, agent-skill, pytorchkr]
 date: 2026-06-17
+sources:
+  - raw/sources/2026-06-16-discuss-pytorchkr-obsidian-second-brain-10730.md
+assets:
+  - raw/assets/obsidian-second-brain_1.png
+  - raw/assets/obsidian-second-brain_2.png
 url: https://discuss.pytorch.kr/t/obsidian-second-brain-obsidian-vault-ai/10730
 author: 9bow(박정환)
 published: 2026-06-16
@@ -80,8 +85,15 @@ note: PyTorchKR 커뮤니티 게시물. GPT로 정리된 글 기반이며 원문
 - [[obsidian-second-brain]] · [[Eugeniu Ghelbur]] · [[LLM Wiki]] · [[PyTorchKR]]
 - [[루프 엔지니어링]] — 예약 에이전트·자동화 (대비: 지식 볼트 유지보수)
 
+## 도표 (원본 첨부)
+
+![Karpathy LLM Wiki vs obsidian-second-brain 비교](../../raw/assets/obsidian-second-brain_1.png)
+
+![append-only vs self-rewriting 요약](../../raw/assets/obsidian-second-brain_2.png)
+
 ## 원본·리소스
 
+- `raw/sources/2026-06-16-discuss-pytorchkr-obsidian-second-brain-10730.md`
 - PyTorchKR: https://discuss.pytorch.kr/t/obsidian-second-brain-obsidian-vault-ai/10730
 - GitHub: https://github.com/eugeniughelbur/obsidian-second-brain
-- 보조 이미지: `raw/assets/obsidian-second-brain_1.png`, `obsidian-second-brain_2.png`
+- 첨부: `raw/assets/obsidian-second-brain_1.png`, `obsidian-second-brain_2.png`

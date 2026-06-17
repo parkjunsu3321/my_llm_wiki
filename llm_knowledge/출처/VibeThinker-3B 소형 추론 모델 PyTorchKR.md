@@ -1,6 +1,13 @@
 ---
 tags: [ingest, slm, reasoning, pytorchkr]
 date: 2026-06-17
+sources:
+  - raw/sources/2026-06-17-discuss-pytorchkr-vibethinker-3b-10748.md
+assets:
+  - raw/assets/vibethinker_1.png
+  - raw/assets/vibethinker_2.png
+  - raw/assets/vibethinker_3.png
+  - raw/assets/vibethinker_4.png
 url: https://discuss.pytorch.kr/t/vibethinker-3b-3b-feat-weibo-ai/10748
 author: 9bow(박정환)
 published: 2026-06-17
@@ -72,7 +79,17 @@ Qwen2.5-Coder-3B → 4단계:
 
 ## 원본·리소스
 
+- `raw/sources/2026-06-17-discuss-pytorchkr-vibethinker-3b-10748.md`
 - PyTorchKR: https://discuss.pytorch.kr/t/vibethinker-3b-3b-feat-weibo-ai/10748
 - Hugging Face: https://huggingface.co/WeiboAI/VibeThinker-3B
 - GitHub: https://github.com/WeiboAI/VibeThinker
-- 보조 이미지: `raw/assets/vibethinker_1.png` ~ `vibethinker_4.png` (파이프라인·벤치마크)
+
+## 도표 (원본 첨부)
+
+![SSP 파이프라인](../../raw/assets/vibethinker_1.png)
+
+![IMO-AnswerBench 파라미터 효율](../../raw/assets/vibethinker_2.png)
+
+![벤치마크 비교](../../raw/assets/vibethinker_3.png)
+
+![추가 벤치마크](../../raw/assets/vibethinker_4.png)

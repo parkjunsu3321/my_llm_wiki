@@ -1,7 +1,7 @@
 ---
 tags: [entity, person, blog, gamedev]
 sources:
-  - wiki/출처/스펙 주도 개발 SDD tsyang Context Engineering.md
+  - raw/sources/2026-06-15-tsyang-sdd-context-engineering-224.md
 url: https://tsyang.tistory.com/
 ---
 

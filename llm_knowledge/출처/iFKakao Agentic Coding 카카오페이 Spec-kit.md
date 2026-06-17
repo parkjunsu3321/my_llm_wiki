@@ -1,6 +1,8 @@
 ---
 tags: [ingest, agent, sdd, kakaopay]
 date: 2026-06-15
+sources:
+  - raw/sources/2026-06-15-kakaopay-ifkakao-agentic-coding-spec-kit.md
 url: https://tech.kakaopay.com/post/ifkakao-agentic-coding/
 author: wayne (카카오페이 AI 플랫폼팀)
 event: if(kakao)25
@@ -99,5 +101,5 @@ specify init --here              # 기존 프로젝트
 
 ## 참고 (원문)
 
-- [if(kakao)25 — AI 플랫폼](https://tech.kakaopay.com/) (세션 링크는 원문 참고)
-- [AI 플랫폼 GPU·Kubeflow 도입기](https://tech.kakaopay.com/)
+- `raw/sources/2026-06-15-kakaopay-ifkakao-agentic-coding-spec-kit.md`
+- [카카오페이 기술 블로그](https://tech.kakaopay.com/post/ifkakao-agentic-coding/)
