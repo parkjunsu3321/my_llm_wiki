@@ -25,3 +25,5 @@
 ## [2026-06-15] ingest | SDD Context Engineering (tsyang #224) — 출처·개념(컨텍스트·Context Rot)·엔티티(tsyang) 4페이지, SDD·Spec-kit·바이브 갱신, GitHub sync
 
 ## [2026-06-17] ingest | VibeThinker-3B (PyTorchKR #10748) — 출처·개념(SSP·추론-지식 분리·CLR)·엔티티(VibeThinker-3B·Weibo AI) 6페이지, PyTorchKR 갱신
+
+## [2026-06-17] ingest | obsidian-second-brain (PyTorchKR #10730) — 출처·개념(LLM Wiki·자기 갱신 위키)·엔티티(obsidian-second-brain·Eugeniu Ghelbur) 5페이지, PyTorchKR 갱신, GitHub sync

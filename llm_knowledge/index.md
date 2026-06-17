@@ -12,6 +12,8 @@
 - [[개념/ADHD 스킬]] — 코딩 에이전트용 병렬 발산-수렴 아이디에이션 (출처 1)
 - [[개념/Spectrum-to-Signal 원칙]] — SLM SFT 스펙트럼→RL 신호; MGPO (출처 8)
 - [[개념/추론-지식 분리]] — 검증 가능 추론 vs 개방형 지식; SLM·대형 역할 (출처 8)
+- [[개념/LLM Wiki]] — Karpathy raw/wiki 레이어; ingest·query·lint (출처 9)
+- [[개념/자기 갱신 위키]] — rewrite·reconcile·synthesize; append 한계 (출처 9)
 
 ## 출처 요약
 
@@ -23,6 +25,7 @@
 - [[출처/Claude 프롬프트 엔지니어링 Anthropic 가이드 PyTorchKR]] — Opus 4.8·마이그레이션·에이전트 프롬프트 스니펫 (2026-05-30)
 - [[출처/ADHD 코딩 에이전트 스킬 PyTorchKR]] — Diverge/Focus, 벤치마크, 설치법 (2026-06-02)
 - [[출처/VibeThinker-3B 소형 추론 모델 PyTorchKR]] — 3B 프론티어 추론·SSP·CLR·벤치마크 (2026-06-17)
+- [[출처/obsidian-second-brain Obsidian 세컨드 브레인 PyTorchKR]] — 자기 갱신 Vault·43+ 명령·예약 에이전트 (2026-06-16)
 
 ## 개념
 
@@ -55,6 +58,11 @@
 - [[개념/추론-지식 분리]] — parameter-dense vs expansive
 - [[개념/CLR]] — claim-level test-time scaling
 
+### 지식·Obsidian
+
+- [[개념/LLM Wiki]] — Karpathy 3레이어; 이 Vault 구조
+- [[개념/자기 갱신 위키]] — self-rewriting vs append-only
+
 ## 엔티티
 
 ### SDD 도구
@@ -71,8 +79,10 @@
 - [[엔티티/Claude Fable 5]] — Mythos-class; 루프 설계·장시간 작업
 - [[엔티티/Claude Managed Agents]] — CMA harness·Outcomes·sandbox
 - [[엔티티/Claude Opus 4.8]] — 최상위 모델; literal·effort 중심
-- [[엔티티/PyTorchKR]] — 한국 PyTorch 커뮤니티 (출처 3건)
+- [[엔티티/PyTorchKR]] — 한국 PyTorch 커뮤니티 (출처 4건)
 - [[엔티티/VibeThinker-3B]] — Weibo AI 3B 추론 SLM; AIME·LiveCodeBench
 - [[엔티티/Weibo AI]] — VibeThinker 시리즈 연구팀
+- [[엔티티/obsidian-second-brain]] — Obsidian 자기 갱신 세컨드 브레인 스킬
+- [[엔티티/Eugeniu Ghelbur]] — obsidian-second-brain·The AI Operator
 - [[엔티티/Udit Akhouri]] — ADHD 저자
 - [[엔티티/adhd-agent]] — ADHD GitHub/npm (MIT)
