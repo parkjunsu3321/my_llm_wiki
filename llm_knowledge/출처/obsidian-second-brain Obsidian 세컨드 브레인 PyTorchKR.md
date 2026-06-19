@@ -77,7 +77,7 @@ note: PyTorchKR 커뮤니티 게시물. GPT로 정리된 글 기반이며 원문
 
 - claude-obsidian — Claude Code + Obsidian 자동 정리 위키
 - Obsidian Skills — 로컬 KB ↔ AI 에이전트
-- [[OpenKB]] — LLM이 문서→위키 컴파일
+- OpenKB — LLM이 문서→위키 컴파일
 - Open Knowledge Format(OKF) — Google AI 에이전트 지식 공유 표준
 
 ## 관련 위키

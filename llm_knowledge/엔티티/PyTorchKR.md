@@ -6,8 +6,6 @@ sources:
   - raw/sources/2026-06-17-discuss-pytorchkr-vibethinker-3b-10748.md
   - raw/sources/2026-06-16-discuss-pytorchkr-obsidian-second-brain-10730.md
   - raw/sources/2026-06-17-discuss-pytorchkr-tensorzero-llmops-10694.md
-  - raw/sources/2026-05-06-discuss-pytorchkr-openkb-llm-10058.md
-  - raw/sources/2026-06-17-github-vectifyai-openkb-readme.md
 ---
 
 # PyTorchKR
@@ -21,8 +19,6 @@ sources:
 - [[출처/VibeThinker-3B 소형 추론 모델 PyTorchKR]] (2026-06-17)
 - [[출처/obsidian-second-brain Obsidian 세컨드 브레인 PyTorchKR]] (2026-06-16)
 - [[출처/TensorZero LLMOps PyTorchKR]] (2026-06-17)
-- [[출처/OpenKB LLM 위키 지식베이스 PyTorchKR]] (2026-05-06)
-- [[출처/OpenKB GitHub README VectifyAI]] (2026-06-17)
 
 ## 참고
 
