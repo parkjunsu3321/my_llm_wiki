@@ -6,3 +6,6 @@ llm_knowledge/.obsidian/
 .env.*
 *.pem
 credentials.json
+
+__pycache__/
+*.pyc

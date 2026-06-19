@@ -1,0 +1,26 @@
+---
+description: Notion add_it·update_notion·포맷 요청 시 이 Vault의 .cursor/skills/ 스킬을 적용한다
+alwaysApply: true
+---
+
+# Notion — 스킬 라우팅
+
+Notion 페이지 **생성·갱신·포맷** 작업은 **이 Vault의 `.cursor/skills/`만** 사용한다. 전역 `~/.cursor/skills/`에 등록·수정하지 않는다.
+
+| 사용자 의도 | 스킬 | 경로 |
+|-------------|------|------|
+| IT Issue 등록, `/add_it`, add_it | `add-it` | `.cursor/skills/add-it/SKILL.md` |
+| 노션 업데이트, `/update_notion`, 갱신·수정 | `update-notion` | `.cursor/skills/update-notion/SKILL.md` |
+| Notion 본문 포맷 (callout·heading·URL) | `notion-format` | `.cursor/skills/notion-format/SKILL.md` |
+
+작업 시작 시 해당 `SKILL.md`를 읽고 절차를 따른다. ingest 후 Notion 동기화는 `update-notion` + `wiki/` 내용을 소스로 사용.
+
+## add_it vs update_notion
+
+- **신규** IT Issue → `add-it`
+- **기존** 페이지 갱신 → `update-notion` (기본: `replace_content`)
+
+## Wiki 연동
+
+- ingest 완료 후 "노션에 반영" → `update-notion` (또는 주제별 IT Issue `add-it`)
+- 참고 문서에 `wiki/…` 경로·원본 URL 포함 (`notion-format` 준수)

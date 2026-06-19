@@ -1,0 +1,11 @@
+{
+  "databaseId": "35ac47ea-e793-8004-aaf3-ee0bdf36cbd8",
+  "dataSourceId": "35ac47ea-e793-800b-a3d2-000bb17290c6",
+  "titleProperty": "이름",
+  "databaseUrl": "https://app.notion.com/p/35ac47eae7938004aaf3ee0bdf36cbd8",
+  "notionVersion": "2025-09-03",
+  "permissions": {
+    "inheritFromDatabase": true,
+    "verifyConnectionWriteAccess": true
+  }
+}
