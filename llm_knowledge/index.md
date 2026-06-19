@@ -6,7 +6,8 @@
 
 - [[개념/스펙 주도 개발]] — spec=Context; Context Rot·Spec-kit (출처 5·6·7)
 - [[개념/컨텍스트 엔지니어링]] — 무엇을 알려주느냐; SDD·바이브 대비 (출처 7)
-- [[개념/에이전틱 코딩]] — AI 코드 생성; SDD 전환 동기 (출처 6)
+- [[개념/에이전틱 코딩]] — AI 코드 생성; SDD 전환 동기; Claude Code 40만 세션 (출처 6·15)
+- [[개념/도메인 전문성 (에이전틱 코딩)]] — task-specific 숙련; verified success·amplify vs substitute (출처 15)
 - [[개념/루프 엔지니어링]] — 5+1·DPEVI·Open/Closed·/goal; Fable 5 벤치 (출처 3·4·12)
 - [[개념/Claude 프롬프트 엔지니어링]] — Anthropic 공식 가이드; effort·adaptive thinking·에이전트 설계 (출처 2)
 - [[개념/ADHD 스킬]] — 코딩 에이전트용 병렬 발산-수렴 아이디에이션 (출처 1)
@@ -34,6 +35,7 @@
 - [[출처/token-router 하이브리드 컨텍스트 라우터 GeekNews]] — Gemma 2B triage·raw slice·~99% 토큰 절감 (2026-06-17)
 - [[출처/HarnessX PyTorchKR]] — 1급 harness·AEGIS·cross-harness GRPO; +14.5% avg (2026-06-19)
 - [[출처/LLM Wiki 데스크톱 앱 PyTorchKR]] — nashsu Tauri 앱·2단 ingest·4신호 그래프·Deep Research (2026-06-17)
+- [[출처/Claude Code 40만 세션 연구 PyTorchKR]] — Anthropic 40만 세션·9 modes·도메인 전문성·직군 5%p (2026-06-19)
 
 ## 개념
 
@@ -49,7 +51,8 @@
 - [[개념/스펙 주도 개발]] — spec-first/anchored/as-source, constitution·steering, spec=Context
 - [[개념/컨텍스트 엔지니어링]] — 맥락 설계; 프롬프트 엔지니어링과 구분; slice 라우팅
 - [[개념/Context Rot]] — 바이브 코딩 맥락 부식
-- [[개념/에이전틱 코딩]] — 프롬프트 기반 AI 코딩; 환각·일관성 한계
+- [[개념/에이전틱 코딩]] — 프롬프트 기반 AI 코딩; plan/exec 분업·도메인 전문성
+- [[개념/도메인 전문성 (에이전틱 코딩)]] — task-specific 5단계; novice 15% vs expert 33% verified
 - [[개념/바이브 코딩]] — 구조 없는 대화형 코딩; SDD 대비
 - [[개념/루프 엔지니어링]] — 5+1, DPEVI, Open/Closed, /goal·/loop, memory, comprehension debt
 - [[개념/에이전트 하네스]] — Processor·9차원; HarnessX foundry
@@ -93,10 +96,11 @@
 ### Claude·커뮤니티
 
 - [[엔티티/Anthropic]] — Claude 제작사
+- [[엔티티/Claude Code]] — CLI·데스크톱 에이전틱 코딩; 40만 세션 연구
 - [[엔티티/Claude Fable 5]] — Mythos-class; 루프 설계·장시간 작업
 - [[엔티티/Claude Managed Agents]] — CMA harness·Outcomes·sandbox
 - [[엔티티/Claude Opus 4.8]] — 최상위 모델; literal·effort 중심
-- [[엔티티/PyTorchKR]] — 한국 PyTorch 커뮤니티 (출처 8건)
+- [[엔티티/PyTorchKR]] — 한국 PyTorch 커뮤니티 (출처 9건)
 - [[엔티티/llm_wiki]] — nashsu Karpathy 패턴 데스크톱 앱; GPL-3.0
 - [[엔티티/HarnessX]] — Xiaomi harness foundry; AEGIS·공진화
 - [[엔티티/AEGIS]] — HarnessX 트레이스 기반 harness 진화 엔진

@@ -9,6 +9,7 @@ sources:
   - raw/sources/2026-06-19-discuss-pytorchkr-loop-engineering-10796.md
   - raw/sources/2026-06-19-discuss-pytorchkr-harnessx-xiaomi-10740.md
   - raw/sources/2026-06-19-discuss-pytorchkr-llm-wiki-karpathy-10139.md
+  - raw/sources/2026-06-19-discuss-pytorchkr-claude-code-40-10794.md
 ---
 
 # PyTorchKR
@@ -25,6 +26,7 @@ sources:
 - [[출처/루프 엔지니어링 학습 자료 PyTorchKR]] (2026-06-19)
 - [[출처/HarnessX PyTorchKR]] (2026-06-19)
 - [[출처/LLM Wiki 데스크톱 앱 PyTorchKR]] (2026-06-17)
+- [[출처/Claude Code 40만 세션 연구 PyTorchKR]] (2026-06-19)
 
 ## 참고
 

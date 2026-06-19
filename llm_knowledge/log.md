@@ -39,3 +39,7 @@
 ## [2026-06-19] ingest | HarnessX (PyTorchKR #10740) — raw·assets 7·출처·개념(에이전트 하네스)·엔티티(HarnessX·AEGIS) 4페이지, PyTorchKR·루프 엔지니어링 교차 링크, GitHub sync
 
 ## [2026-06-19] ingest | LLM Wiki 데스크톱 앱 (PyTorchKR #10139) — raw·assets 12·출처·개념(LLM Wiki) 갱신·엔티티(llm_wiki), PyTorchKR 8건, GitHub sync
+
+## [2026-06-19] query | Obsidian vs LLM Wiki 데스크톱 — 차이·장단·선택 기준
+
+## [2026-06-19] ingest | Claude Code 40만 세션 (PyTorchKR #10794) — raw·assets 10·출처·개념(도메인 전문성)·엔티티(Claude Code) 3페이지, Anthropic·에이전틱·루프 엔지니어링 갱신, PyTorchKR 9건, GitHub sync
