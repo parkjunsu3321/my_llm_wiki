@@ -37,3 +37,5 @@
 ## [2026-06-19] ingest | 루프 엔지니어링 학습 자료 (PyTorchKR #10796) — raw·assets 6·출처·개념(루프 엔지니어링) DPEVI·플릿·Open/Closed·토큰 비용 갱신, GitHub sync
 
 ## [2026-06-19] ingest | HarnessX (PyTorchKR #10740) — raw·assets 7·출처·개념(에이전트 하네스)·엔티티(HarnessX·AEGIS) 4페이지, PyTorchKR·루프 엔지니어링 교차 링크, GitHub sync
+
+## [2026-06-19] ingest | LLM Wiki 데스크톱 앱 (PyTorchKR #10139) — raw·assets 12·출처·개념(LLM Wiki) 갱신·엔티티(llm_wiki), PyTorchKR 8건, GitHub sync

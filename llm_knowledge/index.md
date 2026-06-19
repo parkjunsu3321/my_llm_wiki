@@ -12,7 +12,7 @@
 - [[개념/ADHD 스킬]] — 코딩 에이전트용 병렬 발산-수렴 아이디에이션 (출처 1)
 - [[개념/Spectrum-to-Signal 원칙]] — SLM SFT 스펙트럼→RL 신호; MGPO (출처 8)
 - [[개념/추론-지식 분리]] — 검증 가능 추론 vs 개방형 지식; SLM·대형 역할 (출처 8)
-- [[개념/LLM Wiki]] — Karpathy raw/wiki 레이어; ingest·query·lint (출처 9)
+- [[개념/LLM Wiki]] — Karpathy raw/wiki; nashsu 앱·Vault 스킬 (출처 9·14)
 - [[개념/자기 갱신 위키]] — rewrite·reconcile·synthesize; append 한계 (출처 9)
 - [[개념/LLMOps]] — 게이트웨이·관측·평가·최적화·실험; 프로덕션 플라이휠 (출처 10)
 - [[개념/하이브리드 컨텍스트 라우팅]] — 로컬 triage·원문 slice·클라우드 추론; token-router (출처 11)
@@ -33,6 +33,7 @@
 - [[출처/TensorZero LLMOps PyTorchKR]] — 통합 게이트웨이·관측·평가·최적화·실험; Rust·OpenAI SDK (2026-06-17)
 - [[출처/token-router 하이브리드 컨텍스트 라우터 GeekNews]] — Gemma 2B triage·raw slice·~99% 토큰 절감 (2026-06-17)
 - [[출처/HarnessX PyTorchKR]] — 1급 harness·AEGIS·cross-harness GRPO; +14.5% avg (2026-06-19)
+- [[출처/LLM Wiki 데스크톱 앱 PyTorchKR]] — nashsu Tauri 앱·2단 ingest·4신호 그래프·Deep Research (2026-06-17)
 
 ## 개념
 
@@ -68,7 +69,7 @@
 
 ### 지식·Obsidian
 
-- [[개념/LLM Wiki]] — Karpathy 3레이어; 이 Vault 구조
+- [[개념/LLM Wiki]] — Karpathy 3레이어; nashsu 앱·이 Vault 스킬
 - [[개념/자기 갱신 위키]] — self-rewriting vs append-only
 
 ### LLM 운영
@@ -95,7 +96,8 @@
 - [[엔티티/Claude Fable 5]] — Mythos-class; 루프 설계·장시간 작업
 - [[엔티티/Claude Managed Agents]] — CMA harness·Outcomes·sandbox
 - [[엔티티/Claude Opus 4.8]] — 최상위 모델; literal·effort 중심
-- [[엔티티/PyTorchKR]] — 한국 PyTorch 커뮤니티 (출처 7건)
+- [[엔티티/PyTorchKR]] — 한국 PyTorch 커뮤니티 (출처 8건)
+- [[엔티티/llm_wiki]] — nashsu Karpathy 패턴 데스크톱 앱; GPL-3.0
 - [[엔티티/HarnessX]] — Xiaomi harness foundry; AEGIS·공진화
 - [[엔티티/AEGIS]] — HarnessX 트레이스 기반 harness 진화 엔진
 - [[엔티티/TensorZero]] — 오픈소스 LLMOps; 게이트웨이·플라이휠

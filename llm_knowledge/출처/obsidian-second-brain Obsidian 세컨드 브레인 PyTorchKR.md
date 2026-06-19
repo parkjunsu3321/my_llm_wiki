@@ -71,7 +71,7 @@ note: PyTorchKR 커뮤니티 게시물. GPT로 정리된 글 기반이며 원문
 
 ## 이 Vault와의 관계
 
-이 Obsidian Vault는 Karpathy [[LLM Wiki]] 패턴(`raw/sources/` + `wiki/` + ingest/query/lint 스킬)을 따른다. [[obsidian-second-brain]]은 동일 볼트에 **재작성·reconcile·synthesize·스케줄 에이전트**를 더하는 **상위/대안 스킬**로 볼 수 있음.
+이 Obsidian Vault는 Karpathy [[LLM Wiki]] 패턴(`raw/sources/` + `wiki/` + ingest/query/lint 스킬)을 따른다. GUI 구현은 [[llm_wiki]]; [[obsidian-second-brain]]은 동일 볼트에 **재작성·reconcile·synthesize·스케줄 에이전트**를 더하는 **상위/대안 스킬**로 볼 수 있음.
 
 ## 관련 (글 내 더 읽어보기)
 

@@ -46,6 +46,6 @@ Claude Code · Codex CLI · Gemini CLI · OpenCode — **단일 코드베이스*
 
 ## 관련
 
-- [[LLM Wiki]] · [[Eugeniu Ghelbur]] · [[PyTorchKR]]
+- [[LLM Wiki]] · [[llm_wiki]] · [[Eugeniu Ghelbur]] · [[PyTorchKR]]
 - [[출처/obsidian-second-brain Obsidian 세컨드 브레인 PyTorchKR]]
 - [[루프 엔지니어링]] — 스케줄·자동화 워크플로
