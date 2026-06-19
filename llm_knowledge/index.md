@@ -16,6 +16,7 @@
 - [[개념/자기 갱신 위키]] — rewrite·reconcile·synthesize; append 한계 (출처 9)
 - [[개념/LLMOps]] — 게이트웨이·관측·평가·최적화·실험; 프로덕션 플라이휠 (출처 10)
 - [[개념/하이브리드 컨텍스트 라우팅]] — 로컬 triage·원문 slice·클라우드 추론; token-router (출처 11)
+- [[개념/에이전트 하네스]] — runtime interface; HarnessX compose·AEGIS·공진화 (출처 13)
 
 ## 출처 요약
 
@@ -31,6 +32,7 @@
 - [[출처/obsidian-second-brain Obsidian 세컨드 브레인 PyTorchKR]] — 자기 갱신 Vault·43+ 명령·예약 에이전트 (2026-06-16)
 - [[출처/TensorZero LLMOps PyTorchKR]] — 통합 게이트웨이·관측·평가·최적화·실험; Rust·OpenAI SDK (2026-06-17)
 - [[출처/token-router 하이브리드 컨텍스트 라우터 GeekNews]] — Gemma 2B triage·raw slice·~99% 토큰 절감 (2026-06-17)
+- [[출처/HarnessX PyTorchKR]] — 1급 harness·AEGIS·cross-harness GRPO; +14.5% avg (2026-06-19)
 
 ## 개념
 
@@ -49,6 +51,7 @@
 - [[개념/에이전틱 코딩]] — 프롬프트 기반 AI 코딩; 환각·일관성 한계
 - [[개념/바이브 코딩]] — 구조 없는 대화형 코딩; SDD 대비
 - [[개념/루프 엔지니어링]] — 5+1, DPEVI, Open/Closed, /goal·/loop, memory, comprehension debt
+- [[개념/에이전트 하네스]] — Processor·9차원; HarnessX foundry
 
 ### 아이디에이션·추론
 
@@ -92,7 +95,9 @@
 - [[엔티티/Claude Fable 5]] — Mythos-class; 루프 설계·장시간 작업
 - [[엔티티/Claude Managed Agents]] — CMA harness·Outcomes·sandbox
 - [[엔티티/Claude Opus 4.8]] — 최상위 모델; literal·effort 중심
-- [[엔티티/PyTorchKR]] — 한국 PyTorch 커뮤니티 (출처 6건)
+- [[엔티티/PyTorchKR]] — 한국 PyTorch 커뮤니티 (출처 7건)
+- [[엔티티/HarnessX]] — Xiaomi harness foundry; AEGIS·공진화
+- [[엔티티/AEGIS]] — HarnessX 트레이스 기반 harness 진화 엔진
 - [[엔티티/TensorZero]] — 오픈소스 LLMOps; 게이트웨이·플라이휠
 - [[엔티티/VibeThinker-3B]] — Weibo AI 3B 추론 SLM; AIME·LiveCodeBench
 - [[엔티티/Weibo AI]] — VibeThinker 시리즈 연구팀
